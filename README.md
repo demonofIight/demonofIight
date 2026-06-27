@@ -2,7 +2,7 @@
 <img src="https://komarev.com/ghpvc/?username=demonofIight&style=plastic&color=9d8cd0&label=WATCHERS" alt="profile view counter">
 </p>
 <p align="center">
-  i just, over and over again, keep envisioning a new kind of future
+  i finally found it,
 </p>
 <p align="center">
 <a href="https://rentry.co/aptx">rentry</a>ㅤ<a href="https://rentry.co/feelnormal">pt info</a>ㅤ<a href="https://kudoshinichi.atabook.org/">新book</a>
@@ -11,5 +11,5 @@
 <a href="https://pronouns.cc/@kudoshinichi">prns.cc</a>ㅤ<a href="https://guns.lol/heiseilupin">guns.lol</a>
 </p>
 <p align="center">
-  i've been searching for a place where we can laugh.
+  a place where we can laugh.
 </p>
