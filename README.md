@@ -5,14 +5,11 @@
   i just, over and over again, keep envisioning a new kind of future
 </p>
 <p align="center">
-<img width="600" height="355" alt="HLqzZhOaIAALuB2" src="https://github.com/user-attachments/assets/62850795-e5fa-46d0-90bf-89409a7ad03b" />
-</p>
-<p align="center">
-  i've been searching for a place where we can laugh.
-</p>
-<p align="center">
 <a href="https://rentry.co/aptx">rentry</a>ㅤ<a href="https://rentry.co/feelnormal">pt info</a>ㅤ<a href="https://kudoshinichi.atabook.org/">新book</a>
 </p>
 <p align="center">
 <a href="https://pronouns.cc/@kudoshinichi">prns.cc</a>ㅤ<a href="https://guns.lol/heiseilupin">guns.lol</a>
+</p>
+<p align="center">
+  i've been searching for a place where we can laugh.
 </p>
