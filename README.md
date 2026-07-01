@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=demonofIight&style=plastic&color=9d8cd0&label=WATCHERS" alt="profile view counter">
+<img src="https://komarev.com/ghpvc/?username=demonofIight&style=plastic&color=c95b40&label=WATCHERS" alt="profile view counter">
 </p>
 <p align="center">
   i finally found it,
