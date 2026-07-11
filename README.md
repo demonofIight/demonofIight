@@ -5,7 +5,7 @@
   i finally found it,
 </p>
 <p align="center">
-<a href="https://rentry.co/aptx">rentry</a>ㅤ<a href="https://rentry.co/feelnormal">pt info</a>ㅤ<a href="https://kudoshinichi.atabook.org/">新book</a>
+<a href="https://rentry.co/aptx">rentry</a>ㅤ<a href="https://rentry.co/fuc9">pt info</a>ㅤ<a href="https://kudoshinichi.atabook.org/">新book</a>
 </p>
 <p align="center">
 <a href="https://pronouns.cc/@kudoshinichi">prns.cc</a>ㅤ<a href="https://guns.lol/heiseilupin">guns.lol</a>
