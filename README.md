@@ -5,13 +5,13 @@
 <img width="630" height="400" alt="G442SvrbQAAAWQj" src="https://github.com/user-attachments/assets/c0d7e11c-8d13-48e7-854f-abc07eec0dd7" />
 </p>
 <p align="center">
-︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶
+  　
 </p>
 <p align="center">
   —‎ ‎ ‎ i don't... have a place to belong in this house anymore.
 </p>
 <p align="center">
-︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵
+  　
 </p>
 <p align="center">
   <a href="https://rentry.co/aptx">rentry</a>　　
@@ -21,4 +21,10 @@
 <p align="center">
   <a href="https://rentry.co/aptx">prns cc</a>　　
   <a href="https://kudoshinichi.atabook.org/">guns.lol</a>
+</p>
+<p align="center">
+  　
+</p>
+<p align="center">
+  —‎ ‎ ‎ ac goguma_wagamja on x
 </p>
