@@ -19,8 +19,8 @@
   <a href="https://kudoshinichi.atabook.org/">新book</a>
 </p>
 <p align="center">
-  <a href="https://rentry.co/aptx">prns cc</a>　　
-  <a href="https://kudoshinichi.atabook.org/">guns.lol</a>
+  <a href="https://pronouns.cc/@kudoshinichi">prns cc</a>　　
+  <a href="https://guns.lol/heiseilupin">guns.lol</a>
 </p>
 <p align="center">
   　
