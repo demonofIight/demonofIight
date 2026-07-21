@@ -19,7 +19,7 @@
   <a href="https://kudoshinichi.atabook.org/">新book</a>
 </p>
 <p align="center">
-  <a href="https://pronouns.cc/@kudoshinichi">prns cc</a>　　
+  <a href="https://pronouns.cc/@aoyagitoya">prns cc</a>　　
   <a href="https://guns.lol/heiseilupin">guns.lol</a>
 </p>
 <p align="center">
