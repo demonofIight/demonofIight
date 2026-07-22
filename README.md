@@ -2,7 +2,7 @@
 <img src="https://komarev.com/ghpvc/?username=demonofIight&style=plastic&color=000000&label=AUDIENCE" alt="profile view counter">
 </p>
 <p align="center">
-<img width="630" height="400" alt="G442SvrbQAAAWQj" src="https://github.com/user-attachments/assets/c0d7e11c-8d13-48e7-854f-abc07eec0dd7" />
+<img width="460" height="400" alt="G442SvrbQAAAWQj" src="https://file.garden/ahj6Vh3bekZ7SJkM/Untitled66_20260722124123.png" />
 </p>
 <p align="center">
   　
@@ -26,5 +26,5 @@
   　
 </p>
 <p align="center">
-  —‎ ‎ ‎ ac goguma_wagamja on x
+  —‎ ‎ ‎ ac siscon_0 on x
 </p>
