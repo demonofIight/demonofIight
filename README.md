@@ -1,14 +1,14 @@
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=demonofIight&style=plastic&color=E98AAF&label=AUDIENCE" alt="profile view counter">
+<img src="https://komarev.com/ghpvc/?username=demonofIight&style=plastic&color=6A9FA5&label=AUDIENCE" alt="profile view counter">
 </p>
 <p align="center">
-<img width="460" height="400" alt="G442SvrbQAAAWQj" src="https://file.garden/ahj6Vh3bekZ7SJkM/Untitled66_20260722124123.png" />
+<img width="480" height="355" alt="G442SvrbQAAAWQj" src="https://file.garden/ahj6Vh3bekZ7SJkM/Untitled85_20260728165324.png" />
 </p>
 <p align="center">
   　
 </p>
 <p align="center">
-  —‎ ‎ ‎ i don't... have a place to belong in this house anymore.
+  —‎ ‎ ‎ i can't keep up with this childish dream anymore.
 </p>
 <p align="center">
   　
@@ -26,5 +26,5 @@
   　
 </p>
 <p align="center">
-  —‎ ‎ ‎ ac siscon_0 on x
+  —‎ ‎ ‎ ac LUANMESS on x
 </p>
