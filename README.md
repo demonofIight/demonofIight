@@ -10,6 +10,6 @@
 
 </p>
 <p align="center">
-  <a href="https://rentry.co/ttto">rentry</a>　　
+  <a href="https://rentry.co/aptx">rentry</a>　　
   <a href="https://raddogs.atabook.org/">新book</a>
 </p>
